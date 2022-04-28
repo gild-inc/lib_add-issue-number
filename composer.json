@@ -1,0 +1,25 @@
+{
+    "name": "gild/add-issue-number",
+    "description": "It is a library that provides the function to automatically add the issue number and ticket number to the beginning of the comment at the time of commit.",
+    "keywords": [
+        "git",
+        "prepare-commit-msg",
+        "issue-number",
+        "jira-software",
+        "automation",
+        "add"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MasayaGoto",
+            "email": "masaya.goto@gild.co.jp",
+            "role": "CEO",
+            "homepage": "https://gild.co.jp/"
+        }
+    ],
+    "support": {
+        "email": "service@gild.co.jp"
+    }
+}
