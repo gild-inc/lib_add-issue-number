@@ -6,6 +6,9 @@
         "prepare-commit-msg",
         "issue-number",
         "jira-software",
+        "pivotal",
+        "asana",
+        "back-log",
         "automation",
         "add"
     ],
